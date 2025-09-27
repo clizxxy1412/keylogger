@@ -1,6 +1,6 @@
 # keylogger
 basic python keylogger, requires pynput <br>
-#For educational purposes only! Do not use with malicious intent
+## For educational purposes only! Do not use with malicious intent
 
 requires pynput <br>
 `pip install pynput` <br>
